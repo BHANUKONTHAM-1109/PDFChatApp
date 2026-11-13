@@ -1,4 +1,4 @@
-# Multi-PDF Chat App AI Agent 📚🤖
+# PDF Chat AI 📚
 
 A Streamlit-based web application that allows you to chat seamlessly with multiple PDF documents using **LangChain**, **Google Gemini**, and a **FAISS Vector Database**.
 
